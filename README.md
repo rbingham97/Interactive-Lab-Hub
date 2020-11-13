@@ -9,3 +9,6 @@ Completed Labs for Russell Bingham
 5. [Russell's Lab 5](https://github.com/rbingham97/IDD_Fa20_Lab5/)
 6. [Russell's Lab 6](https://github.com/rbingham97/IDD_Fa20_Lab6)
 7. [Russell's Lab 7](https://github.com/rbingham97/IDD_Fa20_Lab7)
+
+[Russell's Final Project: Desktop Hologram](https://github.com/rbingham97/IDD_HologramProject)
+
